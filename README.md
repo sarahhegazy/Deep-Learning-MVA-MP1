@@ -1,2 +1,3 @@
-# Deep-Learning-MVA-MP1
+# MVA-MP1
 Deep Learning Assignment 1 
+
